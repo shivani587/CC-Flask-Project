@@ -1,0 +1,5 @@
+virenv/
+--pycache--/
+*.pvc
+.env
+
